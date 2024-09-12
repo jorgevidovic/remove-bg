@@ -13,8 +13,8 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/nombre-del-repositorio.git
-   cd nombre-del-repositorio
+   git clone https://github.com/jorgevidovic/remove-bg.git
+   cd remove-bg
 
 2. instala las dependencias:
     ```bash
