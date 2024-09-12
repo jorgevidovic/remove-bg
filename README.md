@@ -25,8 +25,8 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
     REMOVE_BG_API_KEY=tu_clave_api
 
 4. Crea las siguientes carpetas:
-    images/ : Coloca las imágenes a las cuales deseas eliminar el fondo.
-    output/ : Aquí se guardarán las imágenes con el fondo eliminado.
+   - images/ - Coloca las imágenes a las cuales deseas eliminar el fondo.
+   - output/ - Aquí se guardarán las imágenes con el fondo eliminado.
 
 ## Ejecución
 
